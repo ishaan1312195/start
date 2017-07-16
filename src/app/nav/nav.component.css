@@ -1,0 +1,14 @@
+li {
+  background-color: #1976d2;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  float: left;
+  list-style: none;
+}
+div{
+  background-color: #1976d2;
+  width: fit-content;
+}
+#welcome {
+  text-align: right;
+}
